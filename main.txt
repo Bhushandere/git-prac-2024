@@ -1,4 +1,8 @@
 Hello Pune
 from kharadi
 Hello Alephata
+<<<<<<< HEAD
 Waterfall in festure 2 branch
+=======
+Malshej Ghat
+>>>>>>> 9a531cd0f8add764665a84b26a28ed5bd74b5e83
